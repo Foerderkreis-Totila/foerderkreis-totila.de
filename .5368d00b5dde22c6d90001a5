@@ -1,5 +1,5 @@
 ---
-time: 1466223130
+time: 1466223331
 inventory:
   "/home/index.html":
     md5: 2170774ec1973231fc134e85e16805d0
@@ -11,8 +11,8 @@ inventory:
     md5: e1c31479c2c510bcce3de1bac265cac8
     time: 1461272149
   "/zahlen-fakten/index.html":
-    md5: c035e4bbf5bb3654d6d99365f58ef405
-    time: 1461272149
+    md5: c524d3a48286ede34ce4fdeeda6c4006
+    time: 1466223329
   "/aktuelles/index.html":
     md5: 54eae3a722e23008773109c6c6be9b92
     time: 1466223121
@@ -71,11 +71,11 @@ inventory:
     md5: 1606edc0af65a56d33f5909f223267fc
     time: 1461267967
   "/sitemap.xml":
-    md5: 2b16d44713b6a7892f9106562912c5d0
-    time: 1466223122
+    md5: 01cec0dc5b2d54e73d0e39bcf8cc31e2
+    time: 1466223329
   "/feed.xml":
-    md5: 37bce2be838a72837fb253fd52ad4ad5
-    time: 1466223122
+    md5: 8705f7e479dee85b7a129a00ca71afda
+    time: 1466223329
   "/assets/fk_pfadibus_front.png":
     md5: b40bba811eab6670bdae28a20159d3cf
     time: 1461267967
