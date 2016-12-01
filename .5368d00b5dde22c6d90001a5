@@ -1,5 +1,5 @@
 ---
-time: 1480585708
+time: 1480586013
 inventory:
   "/home/index.html":
     md5: 71979b21343b2b27f756a264fc26908e
@@ -20,8 +20,8 @@ inventory:
     md5: ad7f7b94745ee80d36276c7b960907a4
     time: 1480585699
   "/aktuelles/wir-haben-einen-flyer/index.html":
-    md5: 00ea9cc2a15038d6f9b15dcdd0c69162
-    time: 1480585699
+    md5: 0285bbb7b42ddb1c6374ca3c7d4dccb8
+    time: 1480586011
   "/aktuelles/vorankundigung-30-jahre-stamm-totila-karlshuld/index.html":
     md5: a3a9becf30fec7162f0d2f122946af75
     time: 1480585699
@@ -62,8 +62,8 @@ inventory:
     md5: d8290bd6319df13c8592ffb340871237
     time: 1480585699
   "/kontakt/index.html":
-    md5: c1299f483ca0ba9eae4ca521049d295f
-    time: 1480585699
+    md5: afe661185f5db12a34680d18cbebe5c3
+    time: 1480586011
   "/impressum/index.html":
     md5: 11db6f12e028c529163a4d30e04927e9
     time: 1480585699
@@ -71,11 +71,11 @@ inventory:
     md5: 1606edc0af65a56d33f5909f223267fc
     time: 1461267967
   "/sitemap.xml":
-    md5: 01cec0dc5b2d54e73d0e39bcf8cc31e2
-    time: 1466223329
+    md5: 11bf523a7b96f8e674e9306ee6b82bf4
+    time: 1480586011
   "/feed.xml":
-    md5: ad429c804de255d38c7ae3dbe8ddf5cc
-    time: 1480585699
+    md5: 0124f5c3d3252b47cae7f7be86d9bcb2
+    time: 1480586011
   "/assets/fk_pfadibus_front.png":
     md5: b40bba811eab6670bdae28a20159d3cf
     time: 1461267967
