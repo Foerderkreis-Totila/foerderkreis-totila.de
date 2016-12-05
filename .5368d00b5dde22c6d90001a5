@@ -1,12 +1,12 @@
 ---
-time: 1480586050
+time: 1480970211
 inventory:
   "/home/index.html":
-    md5: 71979b21343b2b27f756a264fc26908e
-    time: 1480585699
+    md5: 3ae06060380d3f3a8e172b1e5c41373c
+    time: 1480970208
   "/index.html":
-    md5: 71979b21343b2b27f756a264fc26908e
-    time: 1480585699
+    md5: 3ae06060380d3f3a8e172b1e5c41373c
+    time: 1480970208
   "/pfadfinderbus/index.html":
     md5: aae10f174b311bc2be384130c3c1baa5
     time: 1480585699
@@ -71,11 +71,11 @@ inventory:
     md5: 1606edc0af65a56d33f5909f223267fc
     time: 1461267967
   "/sitemap.xml":
-    md5: 06da14ec1b6f6fd4855a088376f7471a
-    time: 1480586048
+    md5: db71834f05dc35be5a54be563ecfffc0
+    time: 1480970209
   "/feed.xml":
-    md5: 1e8500425fcae00a7b9bcc7133c70450
-    time: 1480586048
+    md5: 7a208b92b9335d8d6785e12d2147caf1
+    time: 1480970209
   "/assets/fk_pfadibus_front.png":
     md5: b40bba811eab6670bdae28a20159d3cf
     time: 1461267967
@@ -220,6 +220,12 @@ inventory:
   "/assets/Flyer_FKTotila-Karlshuld-eV_S1.jpg":
     md5: 1cbe23c4c08d3a6ce07047df4c2b2c54
     time: 1461267973
+  "/assets/Goodingde_Weihnachtsgrafik-Geschenke-klein.png":
+    md5: a47536d191f102edc0bb82744a7b3520
+    time: 1480970209
+  "/assets/Goodingde_Weihnachtsgrafik-Geschenke-mittel.png":
+    md5: 37e54a50b0b078cc3804f69395ff4848
+    time: 1480970209
   "/assets/vcp-totila_auf_fahrt.jpg":
     md5: 7c01f3d1bb4dfd1fd245acea6f681989
     time: 1461267973
