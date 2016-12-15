@@ -1,5 +1,5 @@
 ---
-time: 1481808439
+time: 1481808445
 inventory:
   "/home/index.html":
     md5: 16517cf7c31413582c37743872d27010
@@ -229,6 +229,9 @@ inventory:
   "/assets/Goodingde_Weihnachtsgrafik-Geschenke-mittel.png":
     md5: 37e54a50b0b078cc3804f69395ff4848
     time: 1480970209
+  "/assets/VCP-Totila_Einladung_Waldweihnacht_2016.jpg":
+    md5: 41163a57439da97742419db7f781ddd0
+    time: 1481808444
   "/assets/vcp-totila_auf_fahrt.jpg":
     md5: 7c01f3d1bb4dfd1fd245acea6f681989
     time: 1461267973
