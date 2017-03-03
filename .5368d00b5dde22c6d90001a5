@@ -1,12 +1,12 @@
 ---
-time: 1482528358
+time: 1488533918
 inventory:
   "/home/index.html":
-    md5: abe195fd9b80aaaa85eb24c99a1be499
-    time: 1482528346
+    md5: 7f0ca35a5a6ce4e1ee2cd3671af6311f
+    time: 1488533915
   "/index.html":
-    md5: abe195fd9b80aaaa85eb24c99a1be499
-    time: 1482528346
+    md5: 7f0ca35a5a6ce4e1ee2cd3671af6311f
+    time: 1488533915
   "/pfadfinderbus/index.html":
     md5: aae10f174b311bc2be384130c3c1baa5
     time: 1480585699
@@ -38,8 +38,8 @@ inventory:
     md5: eb68c33bb6eac2f326970a51f888ced3
     time: 1480585699
   "/aktuelles/archive/index.html":
-    md5: 45bd3b210edb53a704d2b68079444984
-    time: 1482528346
+    md5: db201f1f15d46125e0179cc30d2b8f4b
+    time: 1488533916
   "/aktuelles/tags/index.html":
     md5: 707cf412d2fc4ecbc011b186966710b9
     time: 1480585699
@@ -83,11 +83,11 @@ inventory:
     md5: 1606edc0af65a56d33f5909f223267fc
     time: 1461267967
   "/sitemap.xml":
-    md5: e9da986b3ab1e4f74a598a359c818596
-    time: 1482528347
+    md5: d88fec22b08f3a9421fa5a2d5b2c6786
+    time: 1488533916
   "/feed.xml":
-    md5: 035aaa2edc413ea8ec0b74847cc74c41
-    time: 1482528347
+    md5: 1661b2e7072ffda47d96399f46529e64
+    time: 1488533916
   "/assets/fk_pfadibus_front.png":
     md5: b40bba811eab6670bdae28a20159d3cf
     time: 1461267967
