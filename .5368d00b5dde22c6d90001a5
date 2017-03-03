@@ -1,12 +1,12 @@
 ---
-time: 1488533918
+time: 1488534202
 inventory:
   "/home/index.html":
-    md5: 7f0ca35a5a6ce4e1ee2cd3671af6311f
-    time: 1488533915
+    md5: b7e89042b93bea2e73ccc5f8eb4be3fe
+    time: 1488534200
   "/index.html":
-    md5: 7f0ca35a5a6ce4e1ee2cd3671af6311f
-    time: 1488533915
+    md5: b7e89042b93bea2e73ccc5f8eb4be3fe
+    time: 1488534200
   "/pfadfinderbus/index.html":
     md5: aae10f174b311bc2be384130c3c1baa5
     time: 1480585699
@@ -83,11 +83,11 @@ inventory:
     md5: 1606edc0af65a56d33f5909f223267fc
     time: 1461267967
   "/sitemap.xml":
-    md5: d88fec22b08f3a9421fa5a2d5b2c6786
-    time: 1488533916
+    md5: e1a8e9793e6d2d983a6a4b6527b1773b
+    time: 1488534200
   "/feed.xml":
-    md5: 1661b2e7072ffda47d96399f46529e64
-    time: 1488533916
+    md5: a434a7b4ec396a144366c59457b52f59
+    time: 1488534200
   "/assets/fk_pfadibus_front.png":
     md5: b40bba811eab6670bdae28a20159d3cf
     time: 1461267967
@@ -253,6 +253,9 @@ inventory:
   "/assets/VCP-Totila_Weihnachtskarte_2016_Seite2.jpg":
     md5: 45b44dbc3d5cce04f4fee9b382805d74
     time: 1482528347
+  "/assets/online-einkaufen-verein-unterstuetzen-klein.png":
+    md5: 872860c6606c4ecdee7fc30f6f0dd973
+    time: 1488534201
   "/assets/vcp-totila_auf_fahrt.jpg":
     md5: 7c01f3d1bb4dfd1fd245acea6f681989
     time: 1461267973
