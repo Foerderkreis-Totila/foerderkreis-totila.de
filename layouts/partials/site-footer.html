@@ -6,7 +6,7 @@
       </a>
       {{ if .Site.Menus.footer }}{{ range .Site.Menus.footer }}
       <a class="f4 fw4 hover-white no-underline white-70 dib-ns pv2 ph3" href="{{ .URL }}" title="{{ .Name }}">
-        &nbsp;›&nbsp;{{ .Name }}
+        {{ .Name }}
       </a>
       {{ end }} {{ end }}
     </div>
