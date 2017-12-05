@@ -1,6 +1,6 @@
 baseURL = "https://foerderkreis-totila.de/"
 languageCode = "de-de"
-title = "Förderkreis des Stammes Totila Karlshuld e. V."
+title = "Förderkreis Totila"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
