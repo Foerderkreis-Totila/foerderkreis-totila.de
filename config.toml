@@ -31,7 +31,7 @@ PygmentsCodeFences = true
 
   [menus]
   [[menu.main]]
-      name = "FAQ"
+      name = "Fragen?"
       url = "/faq/"
       weight = 1
   [[menu.main]]

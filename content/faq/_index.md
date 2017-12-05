@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Fragen?"
 description: "Häufig gestellte Fragen (FAQ)"
 featured_image: "/img/vcp-totila-zelteammeer-hero-image-1440x642.jpg"
 ---
