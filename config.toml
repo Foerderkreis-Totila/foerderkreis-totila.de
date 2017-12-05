@@ -35,7 +35,7 @@ PygmentsCodeFences = true
       url = "/faq/"
       weight = 1
   [[menu.main]]
-      name = "Pfadfinderbus"
+      name = "Pfadibus"
       url = "/pfadfinderbus/"
       weight = 2
   [[menu.main]]
