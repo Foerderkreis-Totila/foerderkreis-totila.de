@@ -6,6 +6,10 @@ aliases:
 featured_image: "/img/vcp-totila-aufdemlager-hero-image-1440x642.jpg"
 ---
 
+Seit 2002 ist der Förderkreis ein eingetragener&nbsp;Verein&nbsp;(e.V.).
+
+Der Verein hat derzeit ca. 100 Mitglieder - Eltern von Wölflingen und Pfadfindern sowie ehemalige und Freunde des Stammes.
+
 ## Gründung
 
 - 1993
