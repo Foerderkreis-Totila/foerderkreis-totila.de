@@ -1,7 +1,6 @@
 ---
 title: "Kontakt"
 description: "Ansprechpartner (Vorstandschaft)"
-date: 2017-11-29T14:00:00+02:00
 ---
 
 **Matthias Geisler, 1. Vorstand**<br>
