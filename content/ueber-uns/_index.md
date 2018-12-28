@@ -57,25 +57,31 @@ Versicherung, Steuern
 ## Vorstände
 
 **1993 – 1996**
+
 - 1. Wolfgang Schwarz
 - 2. Georg Schlagbauer
   
 **1997 – 2004**
+
 - 1. Georg Schlagbauer
-2. Wolfgang Schwarz / ab 2001 Hartmut Pakirnus
+- 2. Wolfgang Schwarz / ab 2001 Hartmut Pakirnus
 
 **2005 – 2009**
+
 - 1. Hartmut Pakirnus
 - 2. Hans Hammerl
     
 **2010 - 2014**
+
 - 1. Matthias Geisler
 - 2. Melanie Klink
 
 **2014 - 2018**
+
 - 1. Matthias Geisler
 - 2. Florian Lörch
 
 **seit Dezember 2018**
+
 - 1. Matthias Geisler
 - 2. Michael Polzin
