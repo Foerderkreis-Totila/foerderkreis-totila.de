@@ -72,6 +72,10 @@ Versicherung, Steuern
 - 1. Matthias Geisler
 - 2. Melanie Klink
 
-**seit Dezember 2014**
+**2014 - 2018**
 - 1. Matthias Geisler
 - 2. Florian Lörch
+
+**seit Dezember 2018**
+- 1. Matthias Geisler
+- 2. Michael Polzin
