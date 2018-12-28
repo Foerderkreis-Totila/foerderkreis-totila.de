@@ -6,8 +6,8 @@ description: "Ansprechpartner (Vorstandschaft)"
 **Matthias Geisler, 1. Vorstand**<br>
 ✉&nbsp;matthias.geisler@foerderkreis-totila.de<br>
 
-**Florian Lörch, 2. Vorstand**<br>
-✉&nbsp;florian.loerch@foerderkreis-totila.de<br>
+**Michael Polzin, 2. Vorstand**<br>
+✉&nbsp;michael.polzin@foerderkreis-totila.de<br>
 
 **Stephan Morasch, Kassier**<br>
 ✉&nbsp;stephan.morasch@foerderkreis-totila.de<br>
