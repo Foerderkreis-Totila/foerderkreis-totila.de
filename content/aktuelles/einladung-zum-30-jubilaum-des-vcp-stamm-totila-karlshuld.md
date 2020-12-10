@@ -3,7 +3,7 @@ title: "30 Jahre - VCP Stamm Totila Karlshuld"
 date: 2016-04-20T00:19:36+02:00
 tags:
 - Jubiläum
-draft: false
+draft: true
 ---
 
 ![30 Jahre - VCP Stamm Totila Karlshuld](/assets/30Jahre_VCP-Totila_EinladungCover.jpg")

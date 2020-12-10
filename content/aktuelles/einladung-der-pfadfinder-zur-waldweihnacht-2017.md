@@ -3,7 +3,7 @@ title: "Einladung der Pfadfinder zur Waldweihnacht 2017"
 date: 2017-12-18T00:19:36+02:00
 tags:
 - Waldweihnacht
-draft: false
+draft: true
 ---
 
 Liebe Mitglieder und Freunde,

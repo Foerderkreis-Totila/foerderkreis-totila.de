@@ -17,7 +17,7 @@ Der Verein hat derzeit ca. 100 Mitglieder - Eltern von Wölflingen und Pfadfinde
 
 ## Mitglieder
 
-- 110 (Stand: Januar 2016)
+- 128 (Stand: Dezember 2020)
 
 ## Zweck des Vereins
 
@@ -81,7 +81,12 @@ Versicherung, Steuern
 - 1. Matthias Geisler
 - 2. Florian Lörch
 
-**seit Dezember 2018**
+**2018 - 2020**
 
 - 1. Matthias Geisler
 - 2. Michael Polzin
+
+**seit Dezember 2020**
+
+- 1. Michael Polzin
+- 2. Teresa Hammer
