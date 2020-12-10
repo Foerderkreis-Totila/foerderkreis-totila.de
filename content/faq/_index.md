@@ -9,3 +9,5 @@ featured_image: "/img/vcp-totila-zelteammeer-hero-image-1440x642.jpg"
 **Wie kann ich Mitglied werden?**<br>Bitte füllen Sie die [Beitrittserklärung](/assets/FK_Beitrittserklaerung_mit_SEPA-Lastschriftmandat.pdf) aus und senden Sie diese per Post, Fax oder E-Mail an die angegebenen Kontaktdaten des Vereins. Natürlich können Sie die Beitrittserklärung auch Ihrem Kind mit in die Pfadfinder Gruppen-/ Sippenstunde (zu Händen der Gruppen-/ Sippenführung) oder einem Vorstandsmitglied persönlich übergeben oder in den Briefkasten werfen: [Anschrift](/kontakt)
 
 **Wie kann ich Werbepartner/ Sponsor werden?**<br>Bitte wenden Sie sich dazu einfach an unseren Vorstand: [Kontakt](/kontakt)
+
+**Gibt es Informationen zum Download?**<br>Bitte gerne unseren [Flyer downloaden](/assets/Flyer_Foerderkreis-des-Stammes-Totila-Karlshuld-eV.pdf) (als PDF).

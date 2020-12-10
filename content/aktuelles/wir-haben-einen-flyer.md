@@ -5,7 +5,7 @@ tags:
 - Flyer
 - Mitgliederwerbung
 - Sponsorenwerbung
-draft: false
+draft: true
 ---
 
 Was laaaaange währt, wird endlich gut…

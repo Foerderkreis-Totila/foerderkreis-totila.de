@@ -90,3 +90,11 @@ Versicherung, Steuern
 
 - 1. Michael Polzin
 - 2. Teresa Hammer
+
+## Flyer
+
+Der [Flyer zum Download](/assets/Flyer_Foerderkreis-des-Stammes-Totila-Karlshuld-eV.pdf) (als PDF).
+
+[![Flyer Förderkreis des Stammes Totila Karlshuld e. V. Seite 1](/assets/Flyer_FKTotila-Karlshuld-eV_S1.jpg)](/assets/Flyer_Foerderkreis-des-Stammes-Totila-Karlshuld-eV.pdf)
+
+[![Flyer Förderkreis des Stammes Totila Karlshuld e. V. Seite 2](/assets/Flyer_FKTotila-Karlshuld-eV_S2.jpg)](/assets/Flyer_Foerderkreis-des-Stammes-Totila-Karlshuld-eV.pdf)
