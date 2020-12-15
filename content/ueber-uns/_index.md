@@ -29,12 +29,12 @@ Dies erfolgt insbesondere durch
 - Beschaffung und Unterhalt eines Fahrzeugs für die Jugendarbeit
 - Beratende Unterstützung der Jugendarbeit
 
-Seit Gründung des Vereins bis einschließlich 31.12.2011 sind folgende Investitionen mit den Mitteln der Mitglieder und Spenden finanziert worden:
+Seit Gründung des Vereins bis einschließlich 31.12.2019 sind folgende Investitionen mit den Mitteln der Mitglieder und Spenden finanziert worden:
 
-- **10.227,43 €** für Beschaffung von Material
+- **15.422,84 €** für Beschaffung von Material
 (Zelte incl. Zubehör, Küchenausstattung, Werkzeug, ...)
 
-- **11.526,31 €** für Zuschüsse zu Lagern/Großfahrten
+- **15.202,99 €** für Zuschüsse zu Lagern/Großfahrten
 
 Seit 2002 besitzt der Förderkreis dank einer Spende der *Firma P+S Labormedien GmbH* mit Sitz in 86558 Hohenwart-Deimhausen auch einen Kleinbus.
 
@@ -46,13 +46,12 @@ Um die nötigen Mittel für den Unterhalt aufzubringen, werden Sponsoren gesucht
 
 Derzeit unterstützen ca. 20 Firmen den Förderkreis.
 
-Seit 2002 bis einschließlich 31.12.2011 sind folgende Investitionen mit den Mitteln der Sponsoren und Spenden finanziert worden:
+Seit 2002 bis einschließlich 31.12.2019 sind folgende Investitionen mit den Mitteln der Sponsoren und Spenden finanziert worden:
 
-- **20.000,00 €** für Ersatzbeschaffung eines Kleinbusses
-- **20.884,22 €** für Unterhalt der Fahrzeuge
-Versicherung, Steuern
-- **15.743,09 €** für Instandhaltung
-- **8.871,95 €** für Tankkosten
+- **48.457,50 €** für Ersatzbeschaffung eines Kleinbusses
+- **37.231,68 €** für Unterhalt der Fahrzeuge (Versicherung, Steuern, Anbringung Werbefolien, Sonstiges)
+- **19.252,11 €** für Instandhaltung
+- **16.384,96 €** für Tankkosten
 
 ## Vorstände
 
