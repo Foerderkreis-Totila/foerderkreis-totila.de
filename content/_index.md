@@ -5,11 +5,6 @@ description: "Tatkräftige Unterstützung — seit 1993"
 
 ## Herzlich Willkommen auf der Homepage des Förderkreis des Stammes Totila Karlshuld e. V. !
 
-[![Weihnachtskarte 2020, 1. Seite](/assets/VCP-Totila_Weihnachtskarte_2020_Seite1.jpg)](/assets/VCP-Totila_Weihnachtskarte_2020_web.pdf)
-[![Weihnachtskarte 2020, 2. Seite](/assets/VCP-Totila_Weihnachtskarte_2020_Seite2.jpg)](/assets/VCP-Totila_Weihnachtskarte_2020_web.pdf)
-
-[Weihnachtskarte herunterladen (PDF)](/assets/VCP-Totila_Weihnachtskarte_2020_web.pdf)
-
 ❤
 
 Der Förderkreis des Stammes Totila Karlshuld wurde 1993 gegründet um den [Pfadfinderstamm VCP Stamm Totila Karlshuld](http://www.vcp-totila.de/) ideell, finanziell/ materiell<br> — z.B. durch den [Pfadfinderbus](/pfadfinderbus/) —<br>in jedem Fall aber **tatkräftig zu unterstützen**.
