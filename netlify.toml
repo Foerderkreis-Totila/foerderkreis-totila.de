@@ -9,6 +9,11 @@
 [context.production.environment]
   HUGO_VERSION = "0.78.2"
 
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Permissions-Policy = "interest-cohort=()"
+
 [[redirects]]
   from = "https://foerderkreis-totila-de.netlify.com/*"
   to = "https://foerderkreis-totila.de/:splat"
