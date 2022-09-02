@@ -34,32 +34,40 @@ Die Außenfläche des Busses wird durch den Förderkreis zur Unterstützung der 
 
 ### Aktuell noch verfügbare Werbeflächen mit Preisen
 
-<style>
+<!--style>
     .iframe-loading-placeholder {
        background: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100% 100%"><text fill="%23000000" x="50%" y="50%" font-family="\'Lucida Grande\', sans-serif" font-size="1.25rem" text-anchor="middle">Anzeige wird geladen…</text></svg>') 0px 0px no-repeat;
     }
-</style>
+</style-->
 
 **Frontseite**
 
-<iframe class="iframe-loading-placeholder" width="400" height="410" style="border:none; overflow:hidden;" 
+<!--iframe class="iframe-loading-placeholder" width="400" height="410" style="border:none; overflow:hidden;" 
 src="https://infinite-scrubland-4825.herokuapp.com/image_maps/380a1b4e2608260bdca5/embed">
-</iframe>
+</iframe-->
+
+<img src="/assets/Pfadfinderbus_Frontseite.png" alt="Pfadfinderbus Renault Master Frontseite" style="width:auto !important;">
 
 **Heckseite**
 
-<iframe class="iframe-loading-placeholder" width="400" height="410" style="border:none; overflow:hidden;" 
+<!--iframe class="iframe-loading-placeholder" width="400" height="410" style="border:none; overflow:hidden;" 
 src="https://infinite-scrubland-4825.herokuapp.com/image_maps/6ba92c1e1c181d5b8cdb/embed">
-</iframe>
+</iframe-->
+
+<img src="/assets/Pfadfinderbus_Heckseite.png" alt="Pfadfinderbus Renault Master Heckseite" style="width:auto !important;">
 
 **Fahrerseite**
 
-<iframe class="iframe-loading-placeholder" width="700" height="420" style="border:none; overflow:hidden;" 
+<!--iframe class="iframe-loading-placeholder" width="700" height="420" style="border:none; overflow:hidden;" 
 src="https://infinite-scrubland-4825.herokuapp.com/image_maps/9a6e67ecf9abb2653865/embed">
-</iframe>
+</iframe-->
+
+<img src="/assets/Pfadfinderbus_Fahrerseite.png" alt="Pfadfinderbus Renault Master Fahrerseite" style="width:auto !important;">
 
 **Beifahrerseite**
 
-<iframe class="iframe-loading-placeholder" width="700" height="420" style="border:none; overflow:hidden;" 
+<!--iframe class="iframe-loading-placeholder" width="700" height="420" style="border:none; overflow:hidden;" 
 src="https://infinite-scrubland-4825.herokuapp.com/image_maps/b1c15b722da45b4691dd/embed">
-</iframe>
+</iframe-->
+
+<img src="/assets/Pfadfinderbus_Beifahrerseite.png" alt="Pfadfinderbus Renault Master Beifahrerseite" style="width:auto !important;">
